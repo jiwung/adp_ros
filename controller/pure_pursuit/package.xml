@@ -1,0 +1,14 @@
+<package format="2">
+  <name>pure_pursuit</name>
+  <version>0.1</version>
+  <description>
+    The Pure Pursuit controller package
+  </description>
+  <maintainer email="jiwung@gmail.com">Jiwung Choi</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>reference_point_tracker</depend>
+  <depend>trajectory</depend>
+</package>
