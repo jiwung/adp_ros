@@ -1,6 +1,6 @@
 <package format="2">
   <name>pure_pursuit</name>
-  <version>0.1</version>
+  <version>0.0.1</version>
   <description>
     The Pure Pursuit controller package
   </description>

@@ -2,9 +2,9 @@
 
 This software stack was created to play a role as "Hello World" of autonomous driving planning software.
 
-![rviz setup](./images/demo_v0.1.png "Autonomous Driving Simulation Demo")
+![rviz setup](./images/demo_v0.0.1.png "Autonomous Driving Simulation Demo")
 
-![architecture](./images/architecture_v0.1.png "Software Architecture")
+![architecture](./images/architecture_v0.0.1.png "Software Architecture")
 
 ## Features
 * Lane following with constant velocity
